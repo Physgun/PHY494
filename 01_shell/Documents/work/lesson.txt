@@ -1,0 +1,4 @@
+1. Computers are tools.
+2. The shell is powerful.
+3. Basic shell commands: pwd, cd, ls
+4. I done make a file with the type thing *strums banjo*
